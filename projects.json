@@ -1,0 +1,62 @@
+[
+  {
+    "title": "MusicChain",
+    "image": "static/images/10.PNG",
+    "link": "https://medium.com/@rietesh/28de5bc5e6fb"
+  },
+  {
+    "title": "Hyperledger Iroha: Tokenization of organs",
+    "image": "static/images/iroha.png",
+    "link": "https://medium.com/@rietesh/d05ef4f2bbf8"
+  },
+  {
+    "title": "Serverless computing, Implementation of Function as a Service in a Local Private Cloud",
+    "image": "static/images/serverless.png",
+    "link": "https://medium.com/@rietesh/exploring-serverless-computing-and-implementation-of-function-as-a-service-in-a-local-private-cloud-4c561927e684"
+  },
+  {
+    "title": "Deploying a Hyperledger Composer blockchain business network to Hyperledger Fabric",
+    "image": "static/images/01.png",
+    "link": "https://medium.com/@rietesh/deploying-a-hyperledger-composer-blockchain-business-network-to-hyperledger-fabric-c14a3b2bb746"
+  },
+  {
+    "title": "Cointegration of Hong Kong, US and Indian Stock Markets in Python",
+    "image": "static/images/02.png",
+    "link": "https://medium.com/@rietesh/cointegration-of-hong-kong-us-and-indian-stock-markets-in-python-b01962dcd3e1"
+  },
+  {
+    "title": "CATS vs DOGS + FLASK + DOCKER + KUBERNETES",
+    "image": "static/images/03.png",
+    "link": "https://medium.com/@rietesh/cats-vs-dogs-flask-docker-kubernetes-4df439519675"
+  },
+  {
+    "title": "Curling write-up HackTheBox",
+    "image": "static/images/04.png",
+    "link": "https://medium.com/@rietesh/curling-write-up-hackthebox-5fa9491b6239"
+  },
+  {
+    "title": "Brute-Forcing directories and files Locations in python",
+    "image": "static/images/05.png",
+    "link": "https://medium.com/@rietesh/brute-forcing-directories-and-files-locations-in-python-adad6499167b"
+  },
+  {
+    "title": "CARTOGRAPHER Web challenge from HackTheBOX (HTB)",
+    "image": "static/images/07.png",
+    "link": "https://medium.com/@rietesh/cartographer-web-challenge-from-hackthebox-htb-db866fc7e67f"
+  },
+  {
+    "title": "A small bug in the Election portal",
+    "image": "static/images/06.png",
+    "link": "https://medium.com/@rietesh/a-small-bug-in-election-portal-ba9935484ac9"
+  },
+  {
+    "title": "PYTHON REVERSE SHELL (HACK YOUR NEIGHBOURS!!!)",
+    "image": "static/images/08.png",
+    "link": "https://medium.com/@rietesh/python-reverse-shell-hack-your-neighbours-552561336ca8"
+  },
+  {
+    "title": "Python Rat-Attack Game",
+    "image": "static/images/09.png",
+    "link": "https://github.com/rietesh/rat_attack_game"
+  }
+]
